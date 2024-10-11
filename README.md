@@ -11,3 +11,17 @@ The program is divided into three key parts:
 2. **Training the Models** – Trains the LSTM and GRU models on the stock price dataset.
 3. **Predicting Stock Prices** – Uses the trained models to make predictions and evaluate their performance.
 
+## Instructions to Run the Program
+
+### Step 1: Clone the Repository
+First, clone the repository to your local machine using Git:
+  git clone https://github.com/nivedphil/Stock-price-predictor.git
+  cd Stock-price-predictor
+
+The Libraries required to run the models are: Pandas, NumPy, MatplotLib and Sci-kit Learn
+
+Open the Stock-price-predictor Folder in a Code Editor like Visual Studio Code, Jupyter Notebook or Google Colab etc any Editor that can support .ipynb files
+
+To predict using LSTM Model, open LSTM_Stock_Price_predictor.ipynb and load the LSTM_stock_price_predictions.keras model and run the last two cells
+
+To predict using GRU Model, open GRU_Stock_Price_prediction.ipynb and load the GRU_stock_price_predictions.keras model and run the last two cells
