@@ -18,7 +18,7 @@ First, clone the repository to your local machine using Git:
   git clone https://github.com/nivedphil/Stock-price-predictor.git
   cd Stock-price-predictor
 
-The Libraries required to run the models are: Pandas, NumPy, MatplotLib and Sci-kit Learn
+The Libraries required to run the models are: Pandas, NumPy, MatplotLib, Sci-kit Learn and TensorFlow
 
 Open the Stock-price-predictor Folder in a Code Editor like Visual Studio Code, Jupyter Notebook or Google Colab etc any Editor that can support .ipynb files
 
